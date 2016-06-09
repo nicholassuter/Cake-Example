@@ -39,7 +39,7 @@ By following these steps you can have it building with Cake in a few minutes
 ###1. Clone this repo 
 if you haven't already.
 ###2. Get the required files
-You need 2 files for a build (these will all you'll have to commit to you repo to use Cake):
+You need 2 files for a build (these will be all you'll have to commit to you repo to use Cake):
 * build.ps1
   * This is a bootstrapper powershell script that ensures you have Cake and required dependencies installed.
 * build.cake
